@@ -4,4 +4,6 @@
     "source.fixAll": "explicit"
   },
   "eslint.run": "onSave",
+  "CodeGPT.Autocomplete.provider": "Ollama - deepseek-coder:base",
+  "CodeGPT.apiKey": "OpenAI",
 }

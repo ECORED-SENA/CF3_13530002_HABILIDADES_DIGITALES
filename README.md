@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Correo electrónico, redes sociales y almacenamiento en la nube**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF3_13530002_HABILIDADES_DIGITALES/](https://ecored-sena.github.io/CF3_13530002_HABILIDADES_DIGITALES/)
 
 #
 

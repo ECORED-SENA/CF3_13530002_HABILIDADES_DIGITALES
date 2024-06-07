@@ -1,17 +1,23 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Correo electrónico, redes sociales y almacenamiento en la nube',
+    descripcionCurso:
+      'Vivimos en una era digital marcada por el correo electrónico, las redes sociales y el almacenamiento en la nube. El correo electrónico facilita la comunicación rápida, las redes sociales transforman las interacciones y el consumo de información, y el almacenamiento en la nube permite guardar y acceder a datos desde cualquier lugar, optimizando la colaboración y la gestión de información.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,13 +37,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Correo electrónico',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Cuentas y sincronización en equipos de cómputo',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Cuentas y sincronización en otros dispositivos',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,14 +56,33 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Redes sociales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Recomendaciones para el uso de redes sociales',
+            hash: 't_2_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Almacenamiento en la nube',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Aplicaciones en la nube',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Gestión de información en la nube',
+            hash: 't_3_2',
+          },
+        ],
       },
     ],
     subMenu: [
