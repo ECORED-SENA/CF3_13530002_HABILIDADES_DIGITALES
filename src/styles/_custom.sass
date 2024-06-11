@@ -47,6 +47,41 @@
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto
 
+.tarjeta.tarjeta--azul
+  background-color: #3A1D71
+  .acordion__titulo
+    h3
+      color: white
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #EAD6FC
+  .acordion__titulo
+    h3
+      color: $color-sistema-texto
+.acordion__accion__btn--a
+  background-color: #F0C518
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F0C518
+.slyder-a__bullets__item
+  background-color: #DBBDF5
+.slyder-a__bullets__item--active
+  background-color: #A854F3
+
+.tarjeta.tarjeta--azul1
+  background-color: #F6F6F6
+
+.tarjeta.tarjeta--gris1
+  background-image: url(../assets/curso/tema3/img5.png)
+  background-repeat: no-repeat
+  background-size: cover
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #F0C518
+.pasos-b.color-acento-contenido .pasos-b__header__item--active .pasos-b__header__item__dot span
+  color: #000
+.pasos-b__header__item__dot
+  background-color: #fff
+
 .bg
   &-c1
     background-color: #DEBEFB
@@ -69,6 +104,8 @@
     border-radius: 15px
     background-repeat: no-repeat
     background-position: bottom
+    @media screen and ( max-width: $bp-max-lg )
+      background-size: cover
   &-c6
     background-image: url(../assets/curso/tema1/img3.png)
     background-repeat: no-repeat
@@ -78,9 +115,44 @@
   &-c7
     background-color: #AEC4FA
     border-radius: 15px
+  &-c8
+    background-image: url(../assets/curso/tema2/img4.png)
+    background-repeat: no-repeat
+    background-size: cover
+  &-c9
+    background-image: url(../assets/curso/tema2/img9.png)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-size: contain
+  &-c10
+    background-color: #E3DFEB
+    border-radius: 15px
+  &-c11
+    background-color: #0B47DB
+    border-radius: 15px
+  &-c12
+    background-image: url(../assets/curso/tema3/img1.png)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+    background-position: bottom
+    background-size: contain
+    margin-bottom: -48px
+  &-c13
+    background-image: url(../assets/curso/tema3/img4.svg)
+    border-radius: 15px
+    background-repeat: no-repeat
+    background-position: bottom
+    @media screen and ( max-width: $bp-max-lg )
+      background-size: cover
 
 .txt
   &-c1
     color: #8722E2
   &-c2
-    color: #F0C518
+    color: #F0C518 !important
+  &-c3
+    padding: 8px
+    color: white
+    background-color: #3A1D71
+  &-c4
+    color: white

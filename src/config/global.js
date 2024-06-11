@@ -132,32 +132,55 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Recomendaciones para el uso de redes sociales',
+      referencia:
+        'Ministerio TIC Colombia. (2021). <i>Conoce estos 5 consejos para proteger tu identidad digital </i>(video). YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=8RfAxmMCLgo',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Android',
+      significado:
+        'sistema operativo que usan teléfonos móviles usa como base Linux.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Raspberry',
+      significado:
+        'dispositivo embebido con una placa base emulando un computador de bajo costo para aplicaciones específicas.',
+    },
+    {
+      termino: 'TIC',
+      significado: 'acrónimo de Tecnologías de la Información y Comunicación.',
+    },
+    {
+      termino: 'Wifi',
+      significado:
+        'es una marca comercial que también es usada para designar a las tecnologías de red sin cable (Moreira, 2011).',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Atzori, L., Iera, A. y Morabito, G., (2017) Understanding the internet of things: Definition, Potentials, And Societal Role of a Fast-Evolving Paradigm Ad Hoc Networks, 56, 122-140.',
       link: '',
+    },
+    {
+      referencia:
+        'Castro, S., Medina, B. y Camargo, L., (2016) Supervisión y Control Industrial a través de Teléfonos Inteligentes Usando un Computador de Placa Única Raspberry Pi Inf. Tecnol. 27(2), 121-130.',
+      link: '',
+    },
+    {
+      referencia:
+        'Eines, Mónica E.; Aranda, Nélida Inés y Amilivia, Luis Alberto. (2018) Las Píldoras de Contenidos. Rev. iberoam. tecnol. educ. educ. tecnol, n.21, pp.15-23. ISSN 1851-0086.',
+      link: '',
+    },
+    {
+      referencia:
+        'Moreira, Gislene (2011). Democracia WiFi: Dinámicas de la política y la comunicación en la era digital. Quórum Académico, 8(2),183-208ISSN: 1690-7582. ',
+      link:
+        'https://biblat.unam.mx/es/revista/quorum-academico/articulo/democracia-wifi-dinamicas-de-la-politica-y-la-comunicacion-en-la-era-digital',
     },
   ],
   creditos: [
@@ -180,8 +203,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Jhonaimer Díaz Cerquera',
+          cargo: 'Experto Temático',
+          centro:
+            'Centro de Desarrollo Agroempresarial y Turístico - Regional Huila',
+        },
+        {
+          nombre: 'Miguel Ricardo Rivera Lizcano',
+          cargo: 'Experto Temático',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -190,13 +224,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Blanca Flor Tinoco Torres',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador Fullstack',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Edgar Mauricio Cortés García',
+          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
@@ -204,31 +243,26 @@ export default {
           cargo: 'Animador y Producción audiovisual',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Luis Gabriel Urueta Alvarez',
+        //  cargo: 'Validador de Recursos Educativos Digitales',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Daniel Ricardo Mutis Gómez',
+        //  cargo: 'Evaluador para contenidos inclusivos y accesibles',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
         {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
