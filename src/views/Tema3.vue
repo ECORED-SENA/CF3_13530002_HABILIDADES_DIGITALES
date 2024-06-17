@@ -59,7 +59,7 @@
                   .p-4.p-md-0
                     p.text-white.mb-0 #[b ¿Cómo puedo usarlos?]
                     p.text-white #[b ¿Cómo configuro la privacidad de mi información?]
-                    p.text-white.mb-0 A continuación responderemos cada uno de los interrogantes.
+                    p.text-white.mb-0 A continuación responderemos a cada uno de los interrogantes.
           p.mb-5(data-aos="fade-right") Primero, revisemos cómo es el procedimiento con Google Drive:
           .tarjeta.tarjeta--gris1.mb-5(data-aos="fade-right")
             .p-5

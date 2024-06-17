@@ -224,7 +224,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Blanca Flor Tinoco Torres',
+          nombre: 'Yerson Fabián Zárate Saavedra',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -238,11 +238,11 @@ export default {
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        //{
+        //  nombre: 'Nombre',
+        //  cargo: 'Animador y Producción audiovisual',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
     {
@@ -258,16 +258,16 @@ export default {
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        //{
-        //  nombre: 'Daniel Ricardo Mutis Gómez',
-        //  cargo: 'Evaluador para contenidos inclusivos y accesibles',
-        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //},
         {
-          nombre: 'Margarita Marcela Medrano Gómez',
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
+        //{
+        //  nombre: 'Margarita Marcela Medrano Gómez',
+        //  cargo: 'Evaluador para contenidos inclusivos y accesibles',
+        //  centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        //},
       ],
     },
   ],

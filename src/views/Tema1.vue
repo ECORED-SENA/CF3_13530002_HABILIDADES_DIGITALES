@@ -30,9 +30,9 @@
                     img(src='@/assets/curso/tema1/img2.svg', style="width:80px" alt='').m-auto
                 .col
                   p.mb-0 Hoy en día, es común que las empresas y diferentes organizaciones, soliciten un correo electrónico dentro de los datos de contacto de las personas, para enviarles información; también ocurre lo mismo con diligencias como fórmulas médicas y trámites legales.
-              p.mb-0(data-aos="fade-left") El correo electrónico se puede utilizar para cantidad de transacciones como:
+              p.mb-0(data-aos="fade-left") El correo electrónico se puede utilizar para una cantidad de transacciones como:
           .row.justify-content-center(data-aos="fade-up")
-            .col-8.col-md-6.col-lg-auto.mb-4.mb-xl-0
+            .col-8.col-md-6.col-lg-auto.mb-4
               .p-3.bg-c3.shadow
                 .row.align-items-center 
                   .col-auto 

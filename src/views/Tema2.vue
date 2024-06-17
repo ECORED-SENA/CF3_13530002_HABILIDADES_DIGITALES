@@ -38,7 +38,7 @@
               p.mb-0 En las redes sociales, es posible tener una relación mucho más personalizada y directa con cada cliente o posible cliente, debido a que se puede entrar en contacto con cada uno, ya sea para resolver alguna situación, o para descubrir nuevas informaciones.
           .row(titulo="Posibilidad de segmentación del público")
             .col-12
-              p.mb-0 Al publicar en redes sociales, es posible segmentar los posteos (posts), de acuerdo con las características de la audiencia, para dirigir los esfuerzos hacia aquellos rangos de público que posee más afinidad con la oferta, para llegar a una solución.
+              p.mb-0 Al publicar en redes sociales, es posible segmentar los posteos (#[i posts]), de acuerdo con las características de la audiencia, para dirigir los esfuerzos hacia aquellos rangos de público que posee más afinidad con la oferta, para llegar a una solución.
           .row(titulo="Saber más sobre cada uno de los clientes")
             .col-12
               p.mb-0 Recordar que las personas comparten sus gustos, deseos y otras informaciones que pueden ser valiosas para las empresas, a la hora de acercarse a su público objetivo; es por esta razón que hay que estar alerta a lo que es relevante para la audiencia, para así poder conectarse mejor con ella.
@@ -90,7 +90,7 @@
                   .col-lg-6.mb-4.mb-lg-0
                     p.mb-0 #[b Red social profesional]
                     p Estas son las redes en las que los usuarios tienen como objetivo, crear relaciones profesionales con otros usuarios, divulgar proyectos y conquistas profesionales, presentar su curriculum y habilidades, como también adquirir indicaciones, empleos, etc. 
-                    p.mb-0 LinkedIn es la red social profession al más conocida y utilizada, pero existen otras que vienen conquistando espacio, como: Bebee, Bayt, Xing y Viadeo. Otras redes que no son exclusivamente profesionales, también se han utilizado para este fin, como Facebook, Instagram, YouTube, Twitter y Pinterest.
+                    p.mb-0 LinkedIn es la red social profession al más conocida y utilizada, pero existen otras que vienen conquistando espacio, como: Bebee, Bayt, Xing y Viadeo. Otras redes que no son exclusivamente profesionales, también se han utilizado para este fin, como Facebook, Instagram, YouTube, X anteriormente llamada Twitter y Pinterest.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema2/img7.png', style="width:380px" alt='').m-auto
@@ -154,14 +154,14 @@
                             img(src='@/assets/curso/tema2/img12.png', style="width:380px" alt='').m-auto
                       .row.align-items-center.justify-content-center
                         .col-lg-6.mb-4.mb-lg-0
-                          p.mb-0 #[b Fraude, phishing y malware]
-                          p.mb-0 Los cibercriminales usan mensajes directos o publicaciones tentadoras con enlaces maliciosos o de phishing que, a su vez, contienen malware. Incluso, teniendo las configuraciones de seguridad pertinentes, no estamos 100 % seguros de estas amenazas. Lo mejor es verificar la veracidad del mensaje, observando al remitente, así como tener presente que las entidades bancarias no solicitan información personal, ni de cuentas, por medio de correos electrónicos.
+                          p.mb-0 #[b Fraude, #[i phishing] y #[i malware]]
+                          p.mb-0 Los cibercriminales usan mensajes directos o publicaciones tentadoras con enlaces maliciosos o de #[i phishing] que, a su vez, contienen #[i malware]. Incluso, teniendo las configuraciones de seguridad pertinentes, no estamos 100 % seguros de estas amenazas. Lo mejor es verificar la veracidad del mensaje, observando al remitente, así como tener presente que las entidades bancarias no solicitan información personal, ni de cuentas, por medio de correos electrónicos.
                         .col-lg-5
                           figure
                             img(src='@/assets/curso/tema2/img13.png', style="width:380px" alt='').m-auto
                       .row.align-items-center.justify-content-center
                         .col-lg-6.mb-4.mb-lg-0
-                          p.mb-0 #[b Ciberbullying o acoso cibernético]
+                          p.mb-0 #[b #[i Ciberbullying] o acoso cibernético]
                           p.mb-0 Este delito es uno de los más peligrosos; llega a maltrato o agresión a través de texto, voz o fotos, en formatos de video y audio, subidos a las redes sociales. Afecta a millones de personas (especialmente a los jóvenes) alrededor del mundo y preocupa a profesionales de la salud.
                         .col-lg-5
                           figure
@@ -176,7 +176,7 @@
                       .row.align-items-center.justify-content-center
                         .col-lg-6.mb-4.mb-lg-0
                           p.mb-0 #[b Problemas legales]
-                          p.mb-0 Internet y especialmente, las redes sociales, nos permiten expresarnos libremente. Sin embargo, algunas personas no se dan cuenta que cualquier cosa que se diga o publique en las redes sociales, puede tener implicaciones legales. Por esta razón, debemos tener mucho cuidado con insultar, difamar o difundir falsos rumores. Dichos contenidos pueden generar problemas relacionados con la protección de datos personales (habeas data), propiedad industrial e intelectual, derecho penal y derechos de la personalidad, derecho laboral y la publicidad, entre otros.
+                          p.mb-0 Internet y especialmente, las redes sociales, nos permiten expresarnos libremente. Sin embargo, algunas personas no se dan cuenta de que cualquier cosa que se diga o publique en las redes sociales, puede tener implicaciones legales. Por esta razón, debemos tener mucho cuidado con insultar, difamar o difundir falsos rumores. Dichos contenidos pueden generar problemas relacionados con la protección de datos personales (habeas data), propiedad industrial e intelectual, derecho penal y derechos de la personalidad, derecho laboral y la publicidad, entre otros.
                         .col-lg-5
                           figure
                             img(src='@/assets/curso/tema2/img16.png', style="width:380px" alt='').m-auto
@@ -201,11 +201,11 @@
         figure
           img(src='@/assets/curso/tema2/img18.png', style="width:280px" alt='').m-auto
       .col-lg-9(data-aos="fade-left")
-        p Las siguientes recomendaciones son de gran ayuda para cuando se realice la creación de un perfil en redes sociales y evitar cualquier posible robo de identidad.
+        p Las siguientes recomendaciones son de gran ayuda para cuando se realice la creación de un perfil en redes sociales y se evite cualquier posible robo de identidad.
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Utilice una contraseña segura")
             .col-12
-              p Utilice una contraseña segura, no dejarle accesibilidad a los delincuentes digitales. Muchas veces se utilizan contraseñas como #[b 12345678] o #[b pepito1234] y, prácticamente, “dejamos las llaves pegadas en la puerta”, esperando que nadie ingrese a nuestro hogar. Lo recomendable es combinar mayúsculas, minúsculas, símbolos y números; procurar que tenga más de 12 caracteres. 
+              p Utilice una contraseña segura, no deje accesibilidad a los delincuentes digitales. Muchas veces se utilizan contraseñas como #[b 12345678] o #[b pepito1234] y, prácticamente, “dejamos las llaves pegadas en la puerta”, esperando que nadie ingrese a nuestro hogar. Lo recomendable es combinar mayúsculas, minúsculas, símbolos y números; procurar que tenga más de 12 caracteres. 
               p.mb-0 #[b Por ejemplo:]
               p.mb-0 #[b Int3ntotenerClave2egur4]
           .row(titulo="Configure la privacidad en las redes sociales")
@@ -236,7 +236,7 @@
               figure
                 img(src='@/assets/curso/tema2/img5.svg', style="width:80px" alt='')
             .col
-              p.mb-0 Lo invitamos consultar el video #[b Conoce estos 5 consejos para proteger tu identidad digital], el cual se encuentra en el material complementario y explica tips para proteger su identidad digital.
+              p.mb-0 Lo invitamos a consultar el video #[b Conoce estos 5 consejos para proteger tu identidad digital], el cual se encuentra en el material complementario y explica tips para proteger su identidad digital.
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         figure
           img(src='@/assets/curso/tema2/img6.svg', style="width:380px" alt='').m-auto
