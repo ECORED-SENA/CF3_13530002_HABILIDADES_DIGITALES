@@ -9,7 +9,7 @@
     p.mb-5(data-aos="fade-right") Para aprender qué son las redes sociales y cuáles son las más populares, lo invitamos a consultar el siguiente video.
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/5GeY76vb_oo" title="Redes sociales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-5
       .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
         p El uso de las redes sociales, ha sido absorbido por las personas en todo el mundo, y hoy ya es parte de la rutina.

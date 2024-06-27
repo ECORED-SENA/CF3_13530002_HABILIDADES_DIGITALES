@@ -112,7 +112,7 @@
         .px-5
           figure(data-aos="fade-right")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/o_vgeCoM3aw" title="Cuentas y sincronización parte 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           Separador
           #t_1_2
           .titulo-segundo.color-acento-contenido
@@ -140,7 +140,7 @@
               p.mb-0(data-aos="fade-down") El siguiente video enseña cómo realizar una sincronización de la cuenta de correo electrónico en un dispositivo móvil.
           figure
             .video(data-aos="fade-left")
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/mN13yJ73S5s" title="Cuentas y sincronización parte 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 </template>
 

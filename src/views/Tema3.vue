@@ -17,7 +17,7 @@
               p.mb-0 #[span.txt-c2 ¿Conoce qué es el disquete? o ¿utilizó memorias USB?] #[span.text-white Realmente todo ha avanzado de manera sorprendente y, hoy en día, podemos almacenar información, incluso, en medios que no siempre necesitamos tener con nosotros; con un dispositivo con acceso a Internet y con una cuenta de correo electrónico, es suficiente para acceder a la información. Pero, ¿cómo funciona esto? El siguiente video nos explica esta temática:]
     figure(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/CQzx05c6Zvs" title="Almacenamiento" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
     #t_3_1
     .titulo-segundo.color-acento-contenido
