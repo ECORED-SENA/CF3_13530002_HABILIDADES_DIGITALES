@@ -45,7 +45,7 @@
                 .row.align-items-center 
                   .col-auto 
                     figure
-                      img(src='@/assets/curso/tema1/img4.svg', style="width:50px" alt='').m-auto
+                      img(src='@/assets/curso/tema1/img4.svg', style="max-width:50px" alt='').m-auto
                   .col 
                     p.mb-0 Notificaciones
             .col-8.col-md-6.col-lg-auto.mb-4.mb-xl-0

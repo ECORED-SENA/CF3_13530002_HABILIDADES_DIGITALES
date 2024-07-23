@@ -41,9 +41,9 @@
               p.mb-0 Otra manera de acceder a las aplicaciones de Google es iniciar sesión en el correo Gmail, en este caso se puede encontrar el botón de aplicaciones en la parte superior derecha del correo.
           p.mb-5(data-aos="fade-down") Otra opción puede ser Microsoft, que permite acceder a diferentes servicios desde la cuenta de correo de Outlook. Se inicia sesión con la cuenta de correo electrónico y se busca la opción de aplicaciones, representada por un botón en forma de pequeños botones agrupados en la parte superior izquierda del navegador. Al presionarlos, se puede interactuar con los servicios que ofrece.
           figure.d-none.d-lg-block(data-aos="fade-right")
-            img(src='@/assets/curso/tema3/img4.png', alt='1. Imagen que presenta cómo iniciar sesión en el correo de Outlook. 2. Imgen que presenta los puntos para ir a los servicios que ofrece el correo. 3. Imagen que presenta los servicios que ofrece el correo.').m-auto
+            img(src='@/assets/curso/tema3/img4.png', alt='1. Imagen que presenta cómo iniciar sesión en el correo de Outlook. 2. Imagen que presenta los puntos para ir a los servicios que ofrece el correo. 3. Imagen que presenta los servicios que ofrece el correo.').m-auto
           figure.d-block.d-lg-none(data-aos="fade-left")
-            img(src='@/assets/curso/tema3/img4m.png', alt='1. Imagen que presenta cómo iniciar sesión en el correo de Outlook. 2. Imgen que presenta los puntos para ir a los servicios que ofrece el correo. 3. Imagen que presenta los servicios que ofrece el correo.').m-auto
+            img(src='@/assets/curso/tema3/img4m.png', alt='1. Imagen que presenta cómo iniciar sesión en el correo de Outlook. 2. Imagen que presenta los puntos para ir a los servicios que ofrece el correo. 3. Imagen que presenta los servicios que ofrece el correo.').m-auto
           Separador
           #t_3_2
           .titulo-segundo.color-acento-contenido
@@ -59,7 +59,7 @@
                   .p-4.p-md-0
                     p.text-white.mb-0 #[b ¿Cómo puedo usarlos?]
                     p.text-white #[b ¿Cómo configuro la privacidad de mi información?]
-                    p.text-white.mb-0 A continuación responderemos a cada uno de los interrogantes.
+                    p.text-white.mb-0 A continuación, responderemos a cada uno de los interrogantes.
           p.mb-5(data-aos="fade-right") Primero, revisemos cómo es el procedimiento con Google Drive:
           .tarjeta.tarjeta--gris1.mb-5(data-aos="fade-right")
             .p-5

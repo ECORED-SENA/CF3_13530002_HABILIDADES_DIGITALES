@@ -50,11 +50,11 @@
               p.mb-0 Así como es posible la relación con el público a través de las redes sociales, también es posible utilizarlas para vender productos o servicios; esto es importante si se aborda la audiencia con la que ya se tiene una relación que ha madurado lo suficiente, para incentivarla hacia una compra inteligente.
           .row(titulo="Crear un entorno controlado por la marca")
             .col-12
-              p.mb-0 Si importar cual es el público al que se tiene acceso, este siempre se va a encontrar en algún tipo de red social.
+              p.mb-0 Sin importar cual es el público al que se tiene acceso, este siempre se va a encontrar en algún tipo de red social.
           .row(titulo="Información en tiempo real")
             .col-12
               p.mb-0 Las redes sociales permiten comunicar mensajes a la menor brevedad posible. Para los canales oficiales o gubernamentales, es importante en el caso de una gestión de crisis.
-          .row(titulo="Posibilidad de divulgació")
+          .row(titulo="Posibilidad de divulgación")
             .col-12
               p Posibilidad de divulgación para empresas con bajo presupuesto. 
               p.mb-0 Anunciar en las redes sociales, tiene un costo más bajo que en los medios tradicionales. Adicionalmente, las redes permiten medir los resultados de las publicaciones, de una manera más fácil.
@@ -89,8 +89,8 @@
                 .row.align-items-center.justify-content-center
                   .col-lg-6.mb-4.mb-lg-0
                     p.mb-0 #[b Red social profesional]
-                    p Estas son las redes en las que los usuarios tienen como objetivo, crear relaciones profesionales con otros usuarios, divulgar proyectos y conquistas profesionales, presentar su curriculum y habilidades, como también adquirir indicaciones, empleos, etc. 
-                    p.mb-0 LinkedIn es la red social profession al más conocida y utilizada, pero existen otras que vienen conquistando espacio, como: Bebee, Bayt, Xing y Viadeo. Otras redes que no son exclusivamente profesionales, también se han utilizado para este fin, como Facebook, Instagram, YouTube, X anteriormente llamada Twitter y Pinterest.
+                    p Estas son las redes en las que los usuarios tienen como objetivo, crear relaciones profesionales con otros usuarios, divulgar proyectos y conquistas profesionales, presentar su currículum y habilidades, como también adquirir indicaciones, empleos, etc. 
+                    p.mb-0 LinkedIn es la red social profesional más conocida y utilizada, pero existen otras que vienen conquistando espacio, como: Bebee, Bayt, Xing y Viadeo. Otras redes que no son exclusivamente profesionales, también se han utilizado para este fin, como Facebook, Instagram, YouTube, X anteriormente llamada Twitter y Pinterest.
                   .col-lg-5
                     figure
                       img(src='@/assets/curso/tema2/img7.png', style="width:380px" alt='').m-auto
